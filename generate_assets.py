@@ -1,0 +1,1 @@
+# Assets are already prepared.
